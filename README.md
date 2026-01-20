@@ -21,9 +21,9 @@ The **Coffee Sales Analysis Dashboard** is a professional business intelligence 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/smusab9152/Coffee_Sales_Analysis_Dashboard.git
-   ```
+   git clone https://github.com/pravakarnayakpiyush-del/sales-analysis-dashboard
 
+   
 ## Sample Data
 
 Sample coffee sales data is included for demonstration purposes. Replace with your organization’s data for full analysis.
